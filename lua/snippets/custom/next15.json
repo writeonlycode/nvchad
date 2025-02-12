@@ -1,0 +1,20 @@
+{
+    "Next 15 Page Component": {
+        "prefix": "next-ssc",
+        "body": [
+          "type Props = {",
+          "\tparams: Promise<{}>",
+          "\tqueryParams: Promise<{}>",
+          "};",
+          "",
+          "export default function Page$1({ params, queryParams }: Props) {",
+          "\treturn (;",
+          "\t<div>",
+          "\t\t<h1 className=\"text-2xl text-center\">$1 Page</h1>",
+          "\t</div>",
+          ");",
+          "}"
+        ],
+        "description": "Next.JS 15 Page Component"
+    }
+}
